@@ -9,7 +9,7 @@ export default async function Home() {
       <Link href= "/blog">Check my blog</Link>
       </div>
       <div>
-        <Link href="/contact"> contact me </Link>
+        <Link href="/contact"> Contact me </Link>
       </div>
     </div>
   </div>
