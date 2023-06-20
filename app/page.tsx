@@ -12,5 +12,5 @@ export default async function Home() {
         <Link href="/contact"> Contact me </Link>
       </div>
     </div>
-  </div>
+  </div> 
 }
